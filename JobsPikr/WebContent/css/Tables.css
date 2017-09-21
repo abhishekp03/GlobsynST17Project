@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+.table1 {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 500px;
+}
+	
+.td1, .th1 {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+}
+	
+.th1 {
+	background-color: #C8D6A2;
+}
+	
+.tr1:nth-child(even) {
+    background-color: #dddddd;
+}

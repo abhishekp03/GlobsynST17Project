@@ -1,0 +1,141 @@
+
+Jul 12, 2017 14:08:13.39 NEW SESSION
+Jul 12, 2017 14:08:13.39 [5284:5252:0712/140813.392:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 12, 2017 14:08:35.99 [5284:5252:0712/140835.995:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 12, 2017 14:09:19.71 [5284:5252:0712/140919.718:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 12, 2017 14:11:10.50 [5284:5252:0712/141110.500:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 12, 2017 14:29:47.47 [2620:9968:0712/142947.469:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 12, 2017 14:30:12.15 [2620:9968:0712/143012.156:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 12, 2017 14:31:09.02 [2620:9968:0712/143109.028:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 12, 2017 14:33:03.49 [2620:9968:0712/143303.497:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 12, 2017 14:36:05.41 [2620:9968:0712/143605.417:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 12, 2017 14:43:20.90 [2620:9968:0712/144320.907:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 12, 2017 14:53:20.91 [2620:9968:0712/145320.912:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 12, 2017 15:03:20.91 [2620:9968:0712/150320.915:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 12, 2017 15:13:20.91 [2620:9968:0712/151320.918:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 12, 2017 15:23:20.91 [2620:9968:0712/152320.919:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 12, 2017 15:33:16.43 [1416:5240:0712/153316.433:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 12, 2017 15:33:39.32 [1416:5240:0712/153339.326:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 12, 2017 17:21:37.75 [1416:5240:0712/172137.755:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 12, 2017 20:21:56.84 [1416:5240:0712/202156.844:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 12, 2017 21:29:38.79 [1416:5240:0712/212938.798:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Jul 14, 2017 05:09:01.80 NEW SESSION
+Jul 14, 2017 05:09:01.80 [12252:12256:0714/050856.168:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 14, 2017 08:03:34.79 [12252:12256:0714/080334.793:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 14, 2017 10:49:55.25 [12252:12256:0714/104955.256:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Jul 14, 2017 13:12:16.52 NEW SESSION
+Jul 14, 2017 13:12:16.52 [9640:9908:0714/131216.489:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 14, 2017 13:12:40.80 [9640:9908:0714/131240.804:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 14, 2017 13:13:35.83 [9640:9908:0714/131335.835:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 14, 2017 13:15:14.73 [9640:9908:0714/131514.737:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 14, 2017 13:18:32.62 [9640:9908:0714/131832.626:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 14, 2017 13:25:04.06 [9640:9908:0714/132504.066:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 14, 2017 13:35:04.07 [9640:9908:0714/133504.069:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 14, 2017 13:45:04.07 [9640:9908:0714/134504.072:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 14, 2017 13:55:04.07 [9640:9908:0714/135504.074:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 14, 2017 14:05:04.07 [9640:9908:0714/140504.076:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 14, 2017 14:15:04.07 [9640:9908:0714/141504.078:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 14, 2017 14:25:04.08 [9640:9908:0714/142504.083:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 14, 2017 14:35:04.08 [9640:9908:0714/143504.085:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 14, 2017 14:45:04.09 [9640:9908:0714/144504.090:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 14, 2017 14:55:04.09 [9640:9908:0714/145504.092:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 14, 2017 15:05:04.09 [9640:9908:0714/150504.094:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Jul 15, 2017 24:32:36.86 NEW SESSION
+Jul 15, 2017 24:32:36.86 [2432:8844:0715/003233.782:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 15, 2017 24:32:55.36 [2432:8844:0715/003255.367:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Jul 17, 2017 05:39:51.96 NEW SESSION
+Jul 17, 2017 05:39:51.98 [9588:1932:0717/053951.777:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 17, 2017 05:40:32.02 [9588:1932:0717/054032.028:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 17, 2017 05:41:14.74 [9588:1932:0717/054114.747:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 17, 2017 05:43:11.18 [9588:1932:0717/054311.181:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 17, 2017 08:59:27.50 [9588:1932:0717/085927.502:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 17, 2017 08:59:56.86 [9588:1932:0717/085956.861:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 17, 2017 12:53:09.68 [9588:1932:0717/125309.680:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 17, 2017 12:54:58.40 [9588:1932:0717/125458.406:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 17, 2017 12:58:09.77 [9588:1932:0717/125809.777:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 17, 2017 13:04:26.73 [9588:1932:0717/130426.738:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 17, 2017 13:14:26.74 [9588:1932:0717/131426.741:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Jul 18, 2017 13:14:51.11 NEW SESSION
+Jul 18, 2017 13:14:51.11 [2828:18208:0718/131451.084:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+Jul 18, 2017 13:16:22.03 [2828:18208:0718/131622.031:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+Jul 18, 2017 15:52:52.41 [2828:3036:0718/155252.415:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 18, 2017 16:10:14.32 [2828:3036:0718/161014.323:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 17:11:44.94 [2828:3036:0718/171144.939:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 17:14:14.39 [2828:3036:0718/171414.392:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 17:16:50.48 [2828:3036:0718/171650.483:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 19:09:04.51 [2828:3036:0718/190904.451:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 19:13:25.59 [2828:3036:0718/191325.593:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 20:04:59.05 [2828:3036:0718/200459.049:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 20:08:33.10 [2828:3036:0718/200833.104:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 20:20:07.32 [2828:3036:0718/202007.323:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 20:41:33.56 [2828:3036:0718/204133.561:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 20:43:10.32 [2828:3036:0718/204310.324:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 20:45:18.49 [2828:3036:0718/204518.499:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 20:46:26.71 [2828:3036:0718/204626.714:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 20:56:57.07 [2828:3036:0718/205657.071:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 20:58:54.22 [2828:3036:0718/205854.221:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 21:05:53.29 [2828:3036:0718/210553.299:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 21:52:44.67 [15792:5976:0718/215244.675:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 22:39:58.70 [15792:5976:0718/223958.706:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 22:44:42.11 [15792:5976:0718/224442.114:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 22:44:46.32 [15792:5976:0718/224446.322:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+Jul 18, 2017 22:44:46.37 [15792:5976:0718/224446.322:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+Jul 18, 2017 22:44:46.38 [15792:5976:0718/224446.322:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+Jul 18, 2017 22:55:38.22 [15792:5976:0718/225538.221:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 23:13:49.45 [15792:5976:0718/231349.457:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 23:14:22.28 [15792:5976:0718/231422.285:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 23:16:10.35 [15792:5976:0718/231610.355:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 18, 2017 23:21:50.60 [15792:5976:0718/232150.605:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 19, 2017 24:16:50.73 [15792:5976:0719/001650.738:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 19, 2017 24:22:55.86 [15792:5976:0719/002255.868:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 19, 2017 24:34:38.58 [15792:5976:0719/003438.580:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 19, 2017 24:45:19.53 [15792:5976:0719/004519.530:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 19, 2017 04:43:12.33 [15792:5976:0719/044312.337:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 19, 2017 13:01:34.81 [15792:5976:0719/130134.812:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 19, 2017 13:02:34.41 [15792:5976:0719/130234.418:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 19, 2017 13:04:03.73 [15792:5976:0719/130403.738:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Jul 20, 2017 01:53:08.69 NEW SESSION
+Jul 20, 2017 01:53:08.69 [10916:9304:0720/015308.664:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 20, 2017 03:14:49.08 [10916:9304:0720/031449.079:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 20, 2017 03:16:38.38 [10916:9304:0720/031638.386:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 20, 2017 03:30:04.63 [10916:9304:0720/033004.636:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 20, 2017 03:32:14.25 [10916:9304:0720/033214.258:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 20, 2017 03:36:57.70 [10916:9304:0720/033657.705:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 20, 2017 04:11:44.07 [10916:9304:0720/041144.069:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 20, 2017 04:13:35.33 [10916:9304:0720/041335.334:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 20, 2017 04:18:29.08 [10916:9304:0720/041829.089:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 20, 2017 04:41:51.33 [10916:9304:0720/044151.331:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 20, 2017 04:42:20.00 [10916:9304:0720/044220.001:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 20, 2017 04:48:56.13 [10916:9304:0720/044856.138:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 20, 2017 04:51:16.49 [10916:10412:0720/045116.495:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+Jul 20, 2017 05:18:00.73 [10916:10412:0720/051800.732:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+Jul 20, 2017 05:22:22.06 [10916:9304:0720/052222.062:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 20, 2017 05:44:09.93 [10916:10412:0720/054409.931:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+Jul 20, 2017 05:50:25.12 [10916:9304:0720/055025.121:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 20, 2017 06:40:01.87 [10916:9304:0720/064001.877:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 20, 2017 09:29:32.78 [10916:9304:0720/092932.780:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 20, 2017 09:30:01.13 [10916:9304:0720/093001.138:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Jul 20, 2017 12:29:26.69 NEW SESSION
+Jul 20, 2017 12:29:26.69 [7420:7328:0720/122926.694:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+Jul 20, 2017 12:37:46.94 [7420:8392:0720/123746.946:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 20, 2017 12:38:11.52 [7420:8392:0720/123811.522:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 20, 2017 12:38:58.45 [7420:8392:0720/123858.452:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 20, 2017 12:40:57.61 [7420:8392:0720/124057.618:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 20, 2017 12:43:39.79 [7420:8392:0720/124339.797:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 20, 2017 12:51:27.38 [7420:8392:0720/125127.388:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 20, 2017 13:22:11.73 [12260:1924:0720/132211.737:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 20, 2017 13:22:36.58 [12260:1924:0720/132236.587:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 20, 2017 13:23:20.52 [12260:1924:0720/132320.524:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 20, 2017 13:24:53.93 [12260:1924:0720/132453.937:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 20, 2017 13:27:59.25 [12260:1924:0720/132759.249:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Jul 20, 2017 15:15:44.07 NEW SESSION
+Jul 20, 2017 15:15:44.07 [8560:7236:0720/151544.053:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+Jul 20, 2017 16:10:03.97 [9640:13744:0720/161003.970:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser

@@ -1,0 +1,16 @@
+127.0.0.1 - - [16/Jul/2017:23:30:43 +0530] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [16/Jul/2017:23:30:47 +0530] "GET /JobsPikr/Candidate.jsp HTTP/1.1" 500 2770
+0:0:0:0:0:0:0:1 - - [16/Jul/2017:23:30:48 +0530] "GET /favicon.ico HTTP/1.1" 404 1084
+0:0:0:0:0:0:0:1 - - [16/Jul/2017:23:31:16 +0530] "GET /JobsPikr/Homepage.jsp HTTP/1.1" 200 4111
+0:0:0:0:0:0:0:1 - - [16/Jul/2017:23:31:16 +0530] "GET /JobsPikr/css/Header.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Jul/2017:23:31:16 +0530] "GET /JobsPikr/css/Homepage.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Jul/2017:23:31:16 +0530] "GET /JobsPikr/css/Images/HomepageBackground.jpg HTTP/1.1" 404 1115
+0:0:0:0:0:0:0:1 - - [16/Jul/2017:23:31:16 +0530] "GET /JobsPikr/Images/JobsPikr.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Jul/2017:23:31:39 +0530] "POST /JobsPikr/CandidateLoginServlet HTTP/1.1" 200 15
+0:0:0:0:0:0:0:1 - - [16/Jul/2017:23:31:52 +0530] "POST /JobsPikr/CandidateLoginServlet HTTP/1.1" 200 10993
+0:0:0:0:0:0:0:1 - - [16/Jul/2017:23:31:52 +0530] "GET /JobsPikr/css/Profile.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Jul/2017:23:32:44 +0530] "GET /JobsPikr/CandidateLoginServlet HTTP/1.1" 200 15
+0:0:0:0:0:0:0:1 - - [16/Jul/2017:23:32:52 +0530] "POST /JobsPikr/CandidateLoginServlet HTTP/1.1" 200 10993
+0:0:0:0:0:0:0:1 - - [16/Jul/2017:23:32:54 +0530] "GET /JobsPikr/CandidateLoginServlet HTTP/1.1" 200 15
+0:0:0:0:0:0:0:1 - - [16/Jul/2017:23:34:17 +0530] "POST /JobsPikr/CandidateLoginServlet HTTP/1.1" 200 10993
+0:0:0:0:0:0:0:1 - - [16/Jul/2017:23:34:28 +0530] "GET /JobsPikr/CandidateLoginServlet HTTP/1.1" 200 15

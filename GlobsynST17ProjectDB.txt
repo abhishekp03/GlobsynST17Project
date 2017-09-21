@@ -1,0 +1,126 @@
+CREATE DATABASE GlobsynST17ProjectDB;
+
+USE GlobsynST17ProjectDB;
+
+CREATE TABLE candidateLogin(
+	email varchar(50) PRIMARY KEY, 
+	password varchar(30) NOT NULL,
+	status int(1) NOT NULL
+);
+
+CREATE TABLE recruiterLogin(
+	email varchar(50) PRIMARY KEY, 
+	password varchar(30) NOT NULL,
+	status int(1) NOT NULL
+);
+
+CREATE TABLE candidateProfile(
+	email varchar(50) PRIMARY KEY,
+	fname varchar(25) NOT NULL,
+	lname varchar(25) NOT NULL,
+	sex varchar(10) NOT NULL,
+	dob varchar(10) NOT NULL,
+	address varchar(200) NOT NULL,
+	pincode long NOT NULL,
+	phone long NOT NULL,	
+	exp varchar(10) NOT NULL,
+	degree varchar(20) NOT NULL,
+	stream varchar(50) NOT NULL
+);
+    
+CREATE TABLE recruiterProfile(
+	email varchar(50) PRIMARY KEY,
+	name varchar(30) NOT NULL,
+	address varchar(200) NOT NULL,
+	pincode long NOT NULL,
+	phone long NOT NULL,
+	website varchar(30) NOT NULL
+);
+
+CREATE TABLE jobList(
+	job_id int AUTO_INCREMENT,
+	email varchar(50) NOT NULL,
+	post varchar(20) NOT NULL, 
+	location varchar(20) NOT NULL,
+	salary varchar(10) NOT NULL,
+	exp varchar(10) NOT NULL, 
+	description varchar(200),
+	PRIMARY KEY(job_id)
+);
+
+CREATE TABLE appList(
+	app_id int AUTO_INCREMENT,
+	email varchar(50) NOT NULL,
+	job_id int NOT NULL,
+	PRIMARY KEY(app_id),
+	UNIQUE(email, job_id)
+);
+
+CREATE TABLE interviewDetails(
+	interview_id int AUTO_INCREMENT,
+	app_id int NOT NULL,
+	job_id int NOT NULL,
+	date DATE NOT NULL,
+	time TIME NOT NULL,
+	place VARCHAR(30) NOT NULL,
+	PRIMARY KEY(interview_id),
+	UNIQUE(app_id)
+);
+
+CREATE TABLE candidatePhotos(
+	email varchar(50) PRIMARY KEY,
+	photo mediumblob
+);
+
+CREATE TABLE candidateResume(
+	email varchar(50) PRIMARY KEY,
+	resume mediumblob
+);
+
+
+INSERT INTO candidateLogin VALUES('abhishekpandey2203@gmail.com', 'qwerty', 1);
+INSERT INTO candidateLogin VALUES('sdeba@gmail.com', 'qwerty', 1);
+INSERT INTO candidateLogin VALUES('anindya@gmail.com', 'qwerty', 1); 
+
+
+
+INSERT INTO recruiterLogin VALUES('admin@globsyn.com', 'qwerty', 1);
+INSERT INTO recruiterLogin VALUES('admin@ardent.com', 'qwerty', 1);
+INSERT INTO recruiterLogin VALUES('admin@mywbut.com', 'qwerty', 1);
+
+
+
+INSERT INTO joblist(email, post, location, salary, exp, description) VALUES('admin@globsyn.com', 'HR Manager', 'Kolkata', '6 lpa' '5+', '-');
+INSERT INTO joblist(email, post, location, salary, exp, description) VALUES('admin@globsyn.com', 'Sales', 'Kolkata', '2 lpa', 'Fresher', '-');
+INSERT INTO joblist(email, post, location, salary, exp, description) VALUES('admin@globsyn.com', 'Database Administrator', 'Delhi', '10 lpa', '5+', '-');
+INSERT INTO joblist(email, post, location, salary, exp, description) VALUES('admin@globsyn.com', 'Software Engineer', 'Chennai', '5 lpa', '2+', '-');
+INSERT INTO joblist(email, post, location, salary, exp, description) VALUES('admin@ardent.com', 'HR Manager', 'Mumbai', '5 lpa', '5+', '-');
+INSERT INTO joblist(email, post, location, salary, exp, description) VALUES('admin@ardent.com', 'Sales', 'Bhubaneshwar', '2 lpa', 'Fresher', '-');
+INSERT INTO joblist(email, post, location, salary, exp, description) VALUES('admin@ardent.com', 'Database Administrator', 'Pune', '8 lpa', '5+', '-');
+INSERT INTO joblist(email, post, location, salary, exp, description) VALUES('admin@ardent.com', 'Software Engineer', 'Hyderabad', '4 lpa', '2+', '-');
+INSERT INTO joblist(email, post, location, salary, exp, description) VALUES('admin@mywbut.com', 'HR Manager', 'Kolkata', '6 lpa', '5+', '-');
+INSERT INTO joblist(email, post, location, salary, exp, description) VALUES('admin@mywbut.com', 'Sales', 'Kolkata', '2 lpa', 'Fresher', '-');
+INSERT INTO joblist(email, post, location, salary, exp, description) VALUES('admin@mywbut.com', 'Database Administrator', 'Bangalore', '10 lpa', '5+', '-');
+INSERT INTO joblist(email, post, location, salary, exp, description) VALUES('admin@mywbut.com', 'Software Engineer', 'Bangalore', '5 lpa', '2+', '-');
+
+
+
+insert into candidateprofile values('anindya@gmail.com','Anindya','Das','Male','03-02-1993','Bhadreswar',712124,9038584078,'Fresher','B Tech','CSE');
+insert into candidateprofile values('abhishekpandey2203@gmail.com','Abhishek','Pandey','Male','22-02-1995','Chandannagore',712130,9876543210,'2 years','B Tech','CSE');
+insert into candidateprofile values('sdeba@gmail.com','Debayan','Chowdhury','Male','19-05-1993','Chinsurah',712136,7001199101,'1 Year','B Tech','CSE');
+
+
+
+insert into recruiterprofile values('admin@globsyn.com','Globsyn','Kolkata',700001,9000000000,'www.globsyn.com');
+insert into recruiterprofile values('admin@ardent.com','Ardent','Delhi',711111,8100000000,'www.ardent.com');
+insert into recruiterprofile values('admin@mywbut.com','Mywbut','Mumbai',720000,7000000000,'www.mywbut.com');
+
+
+insert into applist(email,job_id) values('anindya@gmail.com','4');
+insert into applist(email,job_id) values('anindya@gmail.com','3');
+insert into applist(email,job_id) values('debayan301993@gmail.com','4');
+insert into applist(email,job_id) values('duttaritupriya143@gmail.com','3');
+insert into applist(email,job_id) values('debayan301993@gmail.com','3');
+insert into applist(email,job_id) values('abhishekpandey2203@gmail.com','5');
+insert into applist(email,job_id) values('abhishekpandey2203@yahoo.com','7');
+insert into applist(email,job_id) values('sdeba@gmail.com','3');

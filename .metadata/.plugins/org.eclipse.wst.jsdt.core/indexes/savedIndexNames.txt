@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\GlobsynST17Project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+981253565.index
+1432529400.index
+2594498124.index
+1263925679.index
+4112023402.index
+4169870810.index
+2241460176.index
